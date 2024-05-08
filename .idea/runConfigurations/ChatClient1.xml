@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ChatClient1" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="20" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="geekbrains.chat.client.Programm" />
+    <module name="chat_client" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="geekbrains.chat.server.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
